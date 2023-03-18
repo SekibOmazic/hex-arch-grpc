@@ -2,6 +2,8 @@
 
 Found [here](https://t.co/QaN1cAzDmu?amp=1)
 
+Updated version found [here](https://www.youtube.com/watch?v=C-GBzD5Qk2A)
+
 
 ## gRPC
 
